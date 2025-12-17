@@ -4,6 +4,12 @@ This project demonstrates how to build and deploy a **3-tier web application arc
 
 ---
 
+# Architecture
+
+<img width="2048" height="948" alt="3TierArchitecture" src="https://github.com/user-attachments/assets/8ca7e76f-b483-46ff-b648-d1b0a49e3bd7" />
+
+---
+
 ## 📌 What is 3-Tier Architecture?
 
 A **3-tier architecture** separates an application into three logical layers:
